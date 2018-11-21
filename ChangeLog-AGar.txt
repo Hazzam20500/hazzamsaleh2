@@ -1,8 +1,8 @@
-{"version_code":451207,"content":"
+{"version_code":451208,"content":"
 
-<p>تحديث 10.20</p>
+<p>تحديث 10.30</p>
 
-<li> التحديث لنسخة الماركت 2.18.203</li>
+<li> التحديث لنسخة الماركت 2.18.327</li>
 
 <li> نسخه امنه ومستقره ولا تتأثر بالفيروسات</li>
 
@@ -76,6 +76,7 @@
 
 <li> Many Other Fixes</li>
 
-","url":"https://www.3ssem.com/2018/09/agwhatsappv1.20.html"
+","url":"http://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html
+"
 
 }
